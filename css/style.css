@@ -1,0 +1,361 @@
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2020/03/25/21/05/pizza-4968645_1280.jpg);
+    font-weight: bold;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
+    transition: all ease 0.6s;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.title {
+    text-align: center;
+
+}
+.theme{
+    position: absolute;
+    right: 50px;
+    top: 50px;
+    padding: 5px 7px;
+    border-radius: 10px;
+}
+.light{
+    transition: all ease 0.6s;
+    background-image: url(../img/bg.png);
+    color:black;
+    background-size: 400px;
+    background-position: right 70px top 200px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}   
+
+.chegara {
+    position: absolute;
+    height: 430px;
+    border: 1px solid white;
+    width: 0;
+    background-color: black;
+    left: 45%;
+}
+.mobile{
+    display: none;
+}
+button,input,select,option{
+    cursor: pointer;
+}
+.noni {
+display: flex;
+    top: 60px;
+    margin-left: 100px;
+    font-weight: bold;
+    position: absolute;
+    position: absolute;
+}
+.yupqa{
+    position: absolute;
+    margin-left: 200px;
+    margin-top:-0px;
+}
+.orta{
+    position: absolute;
+    margin-left: 270px;
+    margin-top:-0px;
+}
+.qalin{
+    position: absolute;
+    margin-left: 330px;
+    margin-top:-0px;
+}
+.select {
+    width: 200px;
+    height: 25px;
+    margin-top: 30px;
+    margin-left: 100px;
+    position: absolute;
+    border: 1.5px solid black;
+    border-radius: 3px;
+}
+.select::placeholder{
+    color: black;
+}
+
+.placeholder {
+    color: black;
+}
+
+.kattaligi {
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 100px;
+}
+
+.btn1 {
+    position: absolute;
+    margin-top: 115px;
+    margin-left: 100px;
+    background-color: #fff;
+    border: 1px solid black;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+
+.btn2 {
+    position: absolute;
+    margin-top: 115px;
+    margin-left: 200px;
+    background-color: #fff;
+    border: 1px solid black;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+
+.btn3 {
+    position: absolute;
+    margin-top: 115px;
+    margin-left: 300px;
+    background-color: #fff;
+    border: 1px solid black;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+.copy{
+    position: absolute;
+    bottom: 10px;
+    left: 100px;
+    color: rgb(197, 186, 186);
+}
+.ustiga {
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 100px;
+}
+
+.inp1 {
+    position: absolute;
+    margin-top: 240px;
+    margin-left: 100px;
+    width: 20px;
+    height: 20px;
+}
+
+.inp2 {
+    position: absolute;
+    margin-top: 270px;
+    margin-left: 100px;
+    width: 20px;
+    height: 20px;
+}
+
+.inp3 {
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 100px;
+    width: 20px;
+    height: 20px;
+}
+
+.inp4 {
+    position: absolute;
+    margin-top: 240px;
+    margin-left: 300px;
+    width: 20px;
+    height: 20px;
+}
+
+.inp5 {
+    position: absolute;
+    margin-top: 270px;
+    margin-left: 300px;
+    width: 20px;
+    height: 20px;
+}
+
+.inp6 {
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 300px;
+    width: 20px;
+    height: 20px;
+}
+
+.l1 {
+    position: absolute;
+    margin-top: 240px;
+    margin-left: 130px;
+}
+
+.l2 {
+    position: absolute;
+    margin-top: 270px;
+    margin-left: 130px;
+}
+
+.l3 {
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 130px;
+}
+
+.l4 {
+    position: absolute;
+    margin-top: 240px;
+    margin-left: 330px;
+}
+
+.l5 {
+    position: absolute;
+    margin-top: 270px;
+    margin-left: 330px;
+}
+
+.l6 {
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 330px;
+}
+
+.qowimchalar {
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 100px;
+}
+
+.l7 {
+    position: absolute;
+    margin-top: 390px;
+    margin-left: 130px;
+}
+
+.l8 {
+    position: absolute;
+    margin-top: 390px;
+    margin-left: 330px;
+}
+
+.inp7 {
+    position: absolute;
+    margin-top: 390px;
+    margin-left: 100px;
+    width: 20px;
+    height: 20px;
+}
+
+.inp8 {
+    position: absolute;
+    margin-top: 390px;
+    margin-left: 300px;
+    width: 20px;
+    height: 20px;
+}
+
+
+
+.non {
+    position: absolute;
+    margin-left: 700px;
+
+}
+
+.span1 {
+    font-weight: 400;
+}
+.kattaligi2{
+    position: absolute;
+    margin-left: 700px;
+    margin-top: 55px;
+}
+.ustida{
+    position: absolute;
+    margin-left: 700px;
+    margin-top: 90px;
+  
+
+}
+
+.span2{
+    position: absolute;
+    margin-left: 700px;
+    margin-top: 110px;
+    display: none;
+
+}
+.span3{
+    position: absolute;
+    margin-left: 700px;
+    margin-top: 130px;
+    display: none;
+
+}
+.span4{
+    position: absolute;
+    margin-left: 700px;
+    margin-top: 150px;
+    display: none;
+
+}
+.span5{
+    position: absolute;
+    margin-left: 700px;
+    margin-top: 170px;
+    display: none;
+
+}
+.span6{
+    position: absolute;
+    margin-left: 700px;
+    margin-top: 190px;
+    display: none;
+
+}
+.span7{
+    position: absolute;
+    margin-left: 700px;
+    margin-top: 210px;
+    display: none;
+
+}
+.qowimcha{
+    position: absolute;
+    margin-left: 700px;
+    margin-top: 250px;
+}
+.span8{
+    position: absolute;
+    margin-left: 700px;
+    margin-top: 270px;
+    display: none;
+
+}
+.span9{
+    position: absolute;
+    margin-left: 700px;
+    margin-top: 290px;
+    display: none;
+}
+.btn {
+    position: absolute;
+    margin-top: 320px;
+    margin-left: 700px;
+    width: 150px;
+    height: 30px;
+    background-color: coral;
+    border: none;
+    outline: none;
+    color: white;
+}
+@media (max-width:900px){
+    .mobile{
+        display: block;
+        color: black;
+        text-align: center;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+    .banner{
+        display: none;
+    }
+    body{
+        background-image: none;
+    }
+}
